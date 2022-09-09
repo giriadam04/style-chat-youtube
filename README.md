@@ -1,7 +1,7 @@
 # Style Chat Youtube Custom
 Custom Style buat youtube comment
 # Version
-# **`App 1.0.1`**
+<a href=""><img src="https://img.shields.io/badge/Version-1.0.0-red" alt="Badge"></a>
 
 ### `Important! Please Read`
 Custom Style chat youtube ini masih dalam tahap pengembangan, jika ada kesalahan atau bug yang tidak disengaja
